@@ -18,12 +18,13 @@ The Freescale Cup is a global competition where student teams build, program, an
  
 The contest timeframe conveniently fits within the average university semester. Complete rules, dates and entry forms can be found on the regional event website.
 
-ENSEM Smart Car
+ENSEM Smart #####"""Car
 
 
 
+[Freescale line scan camera](https://www.youtube.com/watch?v=_w2yo6XW0MQ&list=PLcfeq6wCtEELe67sxG6RN3RJHucGlepwt&index=3)
 
+[freescale line scane camera in action](https://www.youtube.com/watch?v=nnxwLogOIoI&list=PLcfeq6wCtEELe67sxG6RN3RJHucGlepwt&index=2)
 
-
-
+[ENSEM Freescale smart car](https://www.youtube.com/watch?v=J3NDilqZybg&list=PLcfeq6wCtEELe67sxG6RN3RJHucGlepwt&index=1) 
 
